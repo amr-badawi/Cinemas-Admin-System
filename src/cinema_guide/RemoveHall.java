@@ -94,7 +94,7 @@ public class RemoveHall extends javax.swing.JFrame {
         });
         getContentPane().add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(196, 78, 167, 50));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Amr\\Downloads\\Webp.net-resizeimage (2).jpg")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Images/Webp.net-resizeimage.jpg"))); // NOI18N
         jLabel4.setText("jLabel4");
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 310));
 

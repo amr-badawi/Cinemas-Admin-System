@@ -165,7 +165,7 @@ public class HomePage extends javax.swing.JFrame {
         });
         getContentPane().add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 220, 234, 61));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Webp.net-resizeimage (1).jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Images/Webp.net-resizeimage (1).jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 470, 440));
 

@@ -75,7 +75,7 @@ public class RemoveCinema extends javax.swing.JFrame {
         jLabel2.setText("REMOVE CINEMA FORM");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(29, 29, -1, 32));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Webp.net-resizeimage (1).jpg"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Images/Webp.net-resizeimage (1).jpg"))); // NOI18N
         jLabel3.setText("jLabel3");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 400, 300));
 

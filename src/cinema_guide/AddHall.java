@@ -57,7 +57,6 @@ public class AddHall extends javax.swing.JFrame {
         jComboBox1.setBackground(new java.awt.Color(0, 0, 0));
         jComboBox1.setForeground(new java.awt.Color(255, 255, 255));
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Select a Cinema" }));
-        jComboBox1.setOpaque(false);
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
@@ -75,7 +74,7 @@ public class AddHall extends javax.swing.JFrame {
         jLabel3.setText("ADD HALL FORM");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(32, 23, 163, 32));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Webp.net-resizeimage (1).jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Images/Webp.net-resizeimage (1).jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 410, 230));
 

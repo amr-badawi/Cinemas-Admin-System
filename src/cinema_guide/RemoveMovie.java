@@ -105,7 +105,7 @@ public class RemoveMovie extends javax.swing.JFrame {
         jLabel6.setText("---");
         getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(221, 246, -1, -1));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Webp.net-resizeimage (1).jpg"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/cinema_guide/Images/Webp.net-resizeimage (1).jpg"))); // NOI18N
         jLabel7.setText("jLabel7");
         getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 450, 350));
 
